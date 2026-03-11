@@ -1,0 +1,12 @@
+# env folder
+aws_dev_env/
+
+# duckdb data
+aws_duck_data/
+
+# pycache
+*pycache*
+
+# env
+*env
+
